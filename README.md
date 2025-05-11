@@ -12,6 +12,7 @@
 # Projet for 2025
 
 - [ ] An installer for Nintendo 3DS games (Citra) 🍋
+- [X] List for Minecraft command
 - [ ] Coming soon… ⏳ 
 
 <!---
