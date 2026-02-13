@@ -1,7 +1,7 @@
 # Presantation
 
 - 👋 Hi, I’m Naiko
-- 👀 My pronouns are she/her
+- 👀 My pronouns are he/him
 - 🍀 Little dev in training
 - 🍃 Working on a few small projects for 2025
 - 📫 How to reach me: none for now, but maybe during 2025!
